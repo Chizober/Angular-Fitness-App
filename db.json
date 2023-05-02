@@ -1,0 +1,46 @@
+{
+  "enquiry": [
+    {
+      "firstName": "Amucher",
+      "lastName": "Egbujie",
+      "email": "chizoba@gmail.com",
+      "mobile": "+23431653729",
+      "weight": 60,
+      "height": 1.62,
+      "bmi": 22.86236854138088,
+      "bmiResult": "Normal",
+      "gender": "Female",
+      "requireTrainer": "Yes",
+      "package": "Quarterly",
+      "list": [
+        "Toxic Fat rejection",
+        "Energy and Endurance",
+        "Healthier Digestive System"
+      ],
+      "gym": "No",
+      "enquiryDate": "2023-04-19T23:00:00.000Z",
+      "id": 2
+    },
+    {
+      "firstName": "Chizoba",
+      "lastName": "Egbujie",
+      "email": "zoba@gmail.com",
+      "mobile": "+23431653729",
+      "weight": 48,
+      "height": 1.62,
+      "bmi": 18.289894833104707,
+      "bmiResult": "Underweight",
+      "gender": "Female",
+      "requireTrainer": "Yes",
+      "package": "Monthly",
+      "list": [
+        "Toxic Fat rejection",
+        "Energy and Endurance",
+        "Healthier Digestive System"
+      ],
+      "gym": "No",
+      "enquiryDate": "2023-04-28T23:00:00.000Z",
+      "id": 3
+    }
+  ]
+}
